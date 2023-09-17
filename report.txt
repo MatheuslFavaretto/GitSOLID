@@ -1,0 +1,17 @@
+## REPOS 
+**ID:** 594778344 **NAME:** alura-receita **DESCRIPTION:** Projeto full-stack desenvolver aplicaçãoo web utilizando a linguagem Python eo framework Django **LANGUAGE:** JavaScript
+ **ID:** 566290667 **NAME:** alura-space **DESCRIPTION:** Projeto com base no estudo da plataforma Alura Django **LANGUAGE:** JavaScript
+ **ID:** 649303804 **NAME:** Challenge_Backend **DESCRIPTION:** Desafio Backend Alura --ALUFAFLIX-- **LANGUAGE:** Python
+ **ID:** 646455822 **NAME:** Challenge_DevOps **DESCRIPTION:** Primeiro Challenge DevOps Alura **LANGUAGE:** Python
+ **ID:** 646112393 **NAME:** Challenge_DevOps-2 **DESCRIPTION:**  Segundo Challenge de DevOps Alura  **LANGUAGE:** Java
+ **ID:** 608886345 **NAME:** Ci-docker-test **DESCRIPTION:** Cada integração é verificada por uma compilação automatizada (incluindo testes) para detectar erros de integração o mais rápido possível.  **LANGUAGE:** Go
+ **ID:** 631599132 **NAME:** deploy-nginx-example **DESCRIPTION:** Este repositório contém informações sobre como usar o ArgoCD, uma ferramenta de entrega contínua (CD) para Kubernetes. **LANGUAGE:** None
+ **ID:** 601786686 **NAME:** desafio-ovnis **DESCRIPTION:** desafio-ovinis **LANGUAGE:** Python
+ **ID:** 681546353 **NAME:** dio-lab-open-source **DESCRIPTION:** Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One. **LANGUAGE:** None
+ **ID:** 602365759 **NAME:** exercicios-logica-python-wiki **DESCRIPTION:** Resolução em Python dos exercícios de Lógica de Programação e Algoritmos da lista de exercícios da Wiki da Python Brasil.  **LANGUAGE:** Python
+ **ID:** 631662597 **NAME:** jenkins-udemylabs **DESCRIPTION:** Automatize CI/CD com Jenkins e Slack para acelerar desenvolvimento de software e incluir DevSecOps. **LANGUAGE:** Go
+ **ID:** 605790424 **NAME:** modelo-vitrinedev **DESCRIPTION:** None **LANGUAGE:** None
+ **ID:** 625178299 **NAME:** observabilidade-monitoramento **DESCRIPTION:** Curso de Monitoramento: Prometheus, Grafana e Alertmanager -ALURA- **LANGUAGE:** Java
+ **ID:** 568377359 **NAME:** school-API **DESCRIPTION:** Atividade Criar API para uma escola, formatando e versionando codigo **LANGUAGE:** Python
+ **ID:** 631411500 **NAME:** terraform-pipeline **DESCRIPTION:** Este é um projeto de exemplo que demonstra como criar um pipeline CI/CD para o Terraform usando o GitHub Actions na AWS e Azure. **LANGUAGE:** HCL
+ **ID:** 628435894 **NAME:** terraform-projects **DESCRIPTION:** Este repositório no GitHub apresenta exemplos práticos e avançados para provisionar infraestrutura usando Terraform, com foco na AWS e Azure. **LANGUAGE:** HCL
